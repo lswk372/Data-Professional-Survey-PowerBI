@@ -45,6 +45,6 @@ The dashboard showed that Data Analyst was the most common role among respondent
 
 ## Files
 
-- `Power BI Project - Lucas Kim.pbix` - Power BI dashboard file
-- `Power BI - Final Project.xlsx` - Source dataset
-- `dashboard-screenshot.png` - Dashboard preview image
+- `Data Professional Survey Analysis - Power BI` - Power BI dashboard file
+- `Data Professional Survey Dataset.xlsx` - Source dataset
+- `Data Professional Survey Analysis - Power BI Project.pdf` - Dashboard preview image
